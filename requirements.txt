@@ -1,0 +1,9 @@
+matplotlib
+matplotlib-inline
+pyqt5
+numpy
+scipy
+mne
+h5py
+jupyter
+jupyterlab
