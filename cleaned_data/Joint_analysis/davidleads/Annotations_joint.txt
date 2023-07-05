@@ -1,0 +1,3 @@
+# MNE-Annotations
+# onset, duration, description
+60.170658,2.387359619140625,BAD_time

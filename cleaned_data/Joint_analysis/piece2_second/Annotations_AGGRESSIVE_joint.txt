@@ -1,0 +1,2 @@
+# MNE-Annotations
+# onset, duration, description
